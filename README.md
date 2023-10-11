@@ -1,7 +1,7 @@
 # Pygame Project (The Black Knight: The Game)
 
 <p align="center">
-<img width="400" alt="Poster" src="https://github.com/khylko98/black-knight-angular-spring/assets/96633059/49ee6c9d-d180-4245-b654-c4a6877d05ec">
+<img width="400" alt="Poster" src="https://github.com/khylko98/black-knight-the-game/assets/96633059/59edcf2e-edd6-4020-bcb7-bd1e07270027">
 <br />
 <i>2023</i>
 </p>
